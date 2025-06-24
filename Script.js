@@ -30,7 +30,7 @@ function highlightDates() {
       cell.style.backgroundColor = '#605ab9';
       
     } else if (cellDay > dia1 && cellDay < dia2) { 
-      cell.style.backgroundColor = '#4e5aa1';
+      cell.style.backgroundColor = '#6387b6';
     }
   });
 }
